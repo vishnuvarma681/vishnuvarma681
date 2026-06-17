@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vishnu 👋</h1>
 
 <p align="center">
-  <b>Android Developer</b> · B.Tech CSE · Pune, India
+  <b>App Developer</b> · B.Tech CSE · Pune, India
 </p>
 
 <p align="center">
