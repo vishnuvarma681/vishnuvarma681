@@ -23,7 +23,7 @@
 - 🎓 B.Tech in Computer Science & Engineering
 - 📱 Passionate about building **Android applications** and **Cross Platform Applications** using Kotlin and Flutter with clean architecture
 - 🌱 Currently exploring **Spring Boot** and backend development
-- 💡 300+ LeetCode problems solved — consistent DSA practitioner Maintaining 100+ Days of Streak
+- 💡 300+ LeetCode problems solved — consistent DSA practitioner, Maintaining 100+ Days of Streak
 - 🏅 **5× Microsoft Azure Certified** (AZ-900 · AI-900 · SC-900 · DP-900 · PL-900)
 - 📍 Based in Pune, Maharashtra, India
 
@@ -58,7 +58,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🧮 [Calculator App](https://github.com/YOUR_USERNAME/calculator-app)
+#### 🧮 [Calculator App](https://github.com/vishnuvarma681/calculator-app)
 > Android calculator built with Kotlin and XML layouts featuring clean UI and proper state management.
 
 `Kotlin` `XML` `Android Studio`
@@ -68,12 +68,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnuvarma681&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=vishnuvarma681&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvarma681&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
