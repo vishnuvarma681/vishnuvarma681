@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/vishnu-varma-2827432b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/vishnu1306/" target="_blank">
+  <a href="https://leetcode.com/u/VishnuNVarma/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:vishnuvarma681@gmail.com">
@@ -89,7 +89,7 @@
 ### 📈 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vishnu1306?theme=dark&font=Nunito&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/VishnuNVarma?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
 ---
