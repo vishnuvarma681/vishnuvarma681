@@ -23,7 +23,7 @@
 - 🎓 B.Tech in Computer Science & Engineering
 - 📱 Passionate about building **Android applications** and **Cross Platform Applications** using Kotlin and Flutter with clean architecture
 - 🌱 Currently exploring **Spring Boot** and backend development
-- 💡 300+ LeetCode problems solved — consistent DSA practitioner, Maintaining 100+ Days of Streak
+- 💡 350+ LeetCode problems solved — consistent DSA practitioner, Maintaining 110+ Days of Streak
 - 🏅 **5× Microsoft Azure Certified** (AZ-900 · AI-900 · SC-900 · DP-900 · PL-900)
 - 📍 Based in Pune, Maharashtra, India
 
@@ -41,22 +41,23 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
-**Architecture & Jetpack**
-
-![MVVM](https://img.shields.io/badge/MVVM-4285F4?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Backend & Tools**
+**Backend & Architecture**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=android&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=openapiinitiative&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-4285F4?style=flat-square&logo=android&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-4285F4?style=flat-square&logo=android&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Tools**
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
@@ -84,7 +85,7 @@
 
 ### 🏆 Achievements
 
-- 🟡 **300+ LeetCode Problems** solved — 100+ days Streak Continued
+- 🟡 **350+ LeetCode Problems** solved — 110+ days Streak Continued
 - ☁️ **5× Microsoft Azure Certified** — AZ-900, AI-900, SC-900, DP-900, PL-900
 - 💼 **Android Developer Intern** at Oasis Infobyte
 
